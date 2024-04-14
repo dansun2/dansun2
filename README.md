@@ -10,3 +10,5 @@
 >  > 4. 수영   <img src="https://www.idaegu.com/data/image/2024/04/05/idg202404050008.jpg" width="40%" height="auto"/>
 
 개발에 관해 아무것도 모르고 왔지만   잘 배워서 써먹어보도록 하겠습니다. 같이 잘해봐요~
+
+4/15 git clone 연습 test
